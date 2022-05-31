@@ -1,0 +1,47 @@
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs

@@ -1,0 +1,28 @@
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.deps.json
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfoInputs.cache
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfo.cs
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.runtimeconfig.json
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.runtimeconfig.dev.json
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CopyComplete
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.deps.json
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.runtimeconfig.json
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.runtimeconfig.dev.json
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csprojAssemblyReference.cache
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfoInputs.cache
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfo.cs
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CopyComplete
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.pdb

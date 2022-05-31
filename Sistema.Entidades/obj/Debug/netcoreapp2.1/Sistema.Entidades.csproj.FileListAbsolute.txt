@@ -1,0 +1,18 @@
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\luise\Desktop\04-C#-sharp\03 Proyecto ASP NET y Vue\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Proyecto-ASP-NET-Vue\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
